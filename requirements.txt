@@ -1,0 +1,9 @@
+pathlib
+pandas
+openpyxl
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn
+

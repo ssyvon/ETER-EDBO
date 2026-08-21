@@ -1,0 +1,11 @@
+metric,value
+rows,46130.0
+columns,28.0
+unique_institutions,1345.0
+unique_regions,25.0
+unique_specialties,304.0
+unique_degrees,7.0
+duplicate_rows,7.0
+total_students_row_sum,1327822.0
+budget_students,555117.0
+contract_students,772705.0

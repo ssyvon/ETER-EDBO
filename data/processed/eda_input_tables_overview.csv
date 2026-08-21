@@ -1,0 +1,3 @@
+﻿table,rows,columns,country_count,year_min,year_max
+df_base_clean,29591,57,40,2013,2023
+country_profiles,376,143,40,2013,2023

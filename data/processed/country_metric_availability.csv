@@ -1,0 +1,17 @@
+metric,country_years_available,share_available
+institutions_count,376.0,1.0
+institutions_with_student_data,376.0,1.0
+student_coverage_share,376.0,1.0
+total_students,360.0,0.9574468085106383
+avg_observed_institution_size,360.0,0.9574468085106383
+students_per_registered_institution,360.0,0.9574468085106383
+median_institution_size,360.0,0.9574468085106383
+foreign_students_share,308.0,0.8191489361702128
+isced5_share,285.0,0.7579787234042553
+isced6_share,285.0,0.7579787234042553
+isced7_share,285.0,0.7579787234042553
+isced8_share,285.0,0.7579787234042553
+student_staff_ratio,263.0,0.699468085106383
+rd_expenditure_per_student_ppp,254.0,0.675531914893617
+expenditure_per_student_ppp,249.0,0.6622340425531915
+revenue_per_student_ppp,246.0,0.6542553191489362

@@ -1,0 +1,11 @@
+rule,rows
+source_rows,29591
+excluded_rows_outside_2022_2023,22989
+rows_in_2022_2023,6602
+missing_students_total_calc,266
+zero_or_negative_students_total_calc,196
+missing_academic_personnel_fte,3132
+zero_or_negative_academic_personnel_fte,18
+invalid_students_per_teacher,3153
+valid_rows_before_latest_year_selection,3449
+valid_institutions_after_latest_year_selection,1915

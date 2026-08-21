@@ -1,0 +1,7 @@
+check,rows
+row_sum_consistent,46130
+row_sum_inconsistent,0
+zero_row_sum,52
+negative_row_sum,0
+missing_region,24
+missing_institution_name,0

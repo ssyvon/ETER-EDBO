@@ -1,0 +1,33 @@
+check,affected_rows
+missing students_total_overview,2001
+zero students_total_overview,1343
+foreign students above total students,1
+negative values in third_party_funding_ppp,1
+negative values in third_party_funding_eur,1
+negative values in students_isced6,0
+negative values in rd_expenditure_ppp,0
+negative values in rd_expenditure_eur,0
+negative values in total_current_revenues_ppp,0
+negative values in total_current_revenues_eur,0
+negative values in total_current_expenditure_ppp,0
+negative values in total_current_expenditure_eur,0
+negative values in support_admin_personnel_fte,0
+negative values in total_personnel_fte,0
+negative values in academic_personnel_fte,0
+negative values in foreign_students_total_overview,0
+negative values in students_isced5,0
+negative values in foreign_students_total_from_components,0
+negative values in students_total_overview,0
+negative values in students_total_from_aggregate,0
+negative values in students_total_from_components,0
+negative values in foreign_students_isced8,0
+negative values in foreign_students_isced5_7_total,0
+negative values in foreign_students_isced7_long_degree,0
+negative values in foreign_students_isced7,0
+negative values in foreign_students_isced6,0
+negative values in foreign_students_isced5,0
+negative values in students_isced8,0
+negative values in students_isced5_7_total,0
+negative values in students_isced7_long_degree,0
+negative values in students_isced7,0
+negative values in foreign_students_total_from_aggregate,0

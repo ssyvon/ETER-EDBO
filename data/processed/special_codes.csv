@@ -1,0 +1,9 @@
+﻿Special code,Label
+a,not applicable
+m,information missing
+x,"breakdown not available, but included in total"
+xc,included in another subcolumn
+xr,included in another row
+nc,"Data not collected, since variables was introduced at later stage"
+c,confidential
+s,value larger than 0 and below or equal to 3 recoded for confidentiality reasons

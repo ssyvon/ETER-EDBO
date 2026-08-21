@@ -1,0 +1,15 @@
+check,affected_rows
+negative_student_values,0
+negative_foreign_student_values,0
+negative_staff_values,0
+negative_finance_values,1
+students_total_analysis_zero_or_negative,957
+students_total_without_observed_isced8,2619
+students_total_component_sum_incomplete,1423
+foreign_total_without_observed_isced8,4908
+foreign_total_component_sum_incomplete,2128
+foreign_share_above_1,0
+isced_share_above_1_any,0
+student_staff_ratio_above_100,158
+student_staff_ratio_below_1,27
+expenditure_per_student_ppp_above_200k,59

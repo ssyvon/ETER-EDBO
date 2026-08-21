@@ -1,0 +1,3 @@
+group,method,correlation,p_value,n_institutions
+all_heis,pearson,0.1294603537212627,1.304158610962463e-08,1915
+all_heis,spearman,0.2592348940485379,8.825914015697603e-31,1915

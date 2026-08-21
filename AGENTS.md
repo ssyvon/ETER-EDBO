@@ -1,0 +1,35 @@
+# Agent Instructions
+
+- Save all generated figures, charts, plots, graphics, and exported images directly in the repository-level `figures/` directory.
+- Do not create notebook-specific figure subdirectories such as `figures/01/`, `figures/02/`, or `figures/03/`.
+- Prefix every figure filename with the source notebook number, for example `01_`, `02_`, or `03_`.
+- Use clear and descriptive figure filenames, for example:
+  - `figures/01_eter_coverage_by_year.png`
+  - `figures/02_edbo_region_summary.png`
+  - `figures/03_model_comparison.png`
+- Do not save visual artifacts in `notebooks/`, `notebooks/models/figures/`, `data/`, or other internal folders.
+- All Markdown content in notebooks must be written in Ukrainian.
+- Use `data/processed/` as the default data source for analysis unless the task explicitly requires working with `data/raw/`.
+- Do not modify raw data directly. Save cleaned, aggregated, and intermediate tables through the pipeline into `data/processed/`.
+- Do not mix ETER and EDBO analysis in the same notebook unless the goals, sources, and results are explicitly separated.
+- For ETER analysis, treat the following as primary sources:
+  - `df_base.csv`
+  - `df_base_clean.csv`
+  - `eter_institution_metrics.csv`
+  - country, student, and finance aggregates from `data/processed/`
+- For EDBO analysis, treat the following as primary sources:
+  - `edbo_prepared.csv`
+  - `edbo_*_summary.csv`
+  - `edbo_*_checks.csv`
+- Before finishing notebook changes, verify that:
+  - the `.ipynb` file is valid JSON
+  - the notebook executes without errors
+  - figures are saved in `figures/` with the correct notebook-number prefix
+- Do not add service caches, temporary files, or system files to the project, including:
+  - `.matplotlib-cache`
+  - `.ipynb_checkpoints`
+  - `.DS_Store`
+  - temporary executed notebooks
+- When creating a new notebook, its filename must start with its notebook number, for example:
+  - `03_...ipynb`
+  - `04_...ipynb`
